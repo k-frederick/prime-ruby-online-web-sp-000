@@ -1,5 +1,3 @@
-require_relative '.../prime.rb'
-
 def prime?(num)
   n = 2
 while n < num
