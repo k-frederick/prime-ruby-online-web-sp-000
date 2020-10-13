@@ -6,5 +6,4 @@ while n < num
     end
   true
 end
-end
-end
+#end
